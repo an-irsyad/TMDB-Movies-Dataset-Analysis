@@ -43,16 +43,16 @@ Steps taken to prepare the dataset:
 Screenshots of Tableau dashboards (inserted here):
 
 - **Revenue and Movies Released by Year**  
-  ![Revenue by Year](visualizations/revenue_movies_by_year.png)
+  ![Revenue by Year](Visualizations/revenue_movies_by_year.png)
 
 - **Top 10 Genres by Revenue (Pie Chart)**  
-  ![Genres Revenue](visualizations/genres_revenue.png)
+  ![Genres Revenue](Visualizations/genres_revenue.png)
 
 - **ROI Distribution (Bar Chart)**  
-  ![ROI](visualizations/roi_distribution.png)
+  ![ROI](Visualizations/roi_distribution.png)
 
 - **Genre Popularity Over Time (Stacked Area Chart)**  
-  ![Genre Popularity](visualizations/genre_popularity.png)
+  ![Genre Popularity](Visualizations/genre_popularity.png)
 
 ---
 
@@ -74,4 +74,5 @@ These insights provide value for **investment strategy, audience targeting, and 
 - `movies_exploded_companies.csv` → Exploded production companies dataset  
 - `visualizations/` → Tableau screenshots  
 - `TMDB_Movie_Analysis_Polished.pdf` → Final report  
+
 
