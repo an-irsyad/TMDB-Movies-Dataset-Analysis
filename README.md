@@ -53,7 +53,9 @@ Screenshots of Tableau dashboards (inserted here):
 
 - **Genre Popularity Over Time (Stacked Area Chart)**  
   ![Genre Popularity](Visualizations/genre_popularity.png)
-
+  
+- **Budget and Revenue Comparison (Line Chart)**  
+  ![Genre Popularity](Visualizations/revenue_budget_comparison.png)
 ---
 
 ## ✅ Conclusion
@@ -74,6 +76,7 @@ These insights provide value for **investment strategy, audience targeting, and 
 - `movies_companies_cleaned.csv` → Exploded production companies dataset  
 - `Visualizations/` → Tableau screenshots  
 - `Movies Dataset Report.pdf` → Final report  
+
 
 
 
