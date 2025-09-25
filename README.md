@@ -42,8 +42,11 @@ Steps taken to prepare the dataset:
 ## 📉 Visualizations
 Screenshots of Tableau dashboards (inserted here):
 
-- **Revenue and Movies Released by Year**  
-  ![Revenue by Year](Visualizations/revenue_movies_by_year.png)
+- **Dashboard 1**  
+  ![Revenue by Year](Visualizations/dashboard1.png)
+
+- **Dashboard 2**  
+  ![Revenue by Year](Visualizations/dashboard2.png)
 
 - **Top 10 Genres by Revenue (Circle Chart)**  
   ![Genres Revenue](Visualizations/genre_revenue.png)
@@ -76,6 +79,7 @@ These insights provide value for **investment strategy, audience targeting, and 
 - `movies_companies_cleaned.csv` → Exploded production companies dataset  
 - `Visualizations/` → Tableau screenshots  
 - `Movies Dataset Report.pdf` → Final report  
+
 
 
 
