@@ -68,12 +68,13 @@ These insights provide value for **investment strategy, audience targeting, and 
 ---
 
 ## 📂 Repository Contents
-- `movie_analysis.py` → Python cleaning & analysis script  
-- `movies_clean.csv` → Cleaned dataset  
-- `movies_exploded_genres.csv` → Exploded genre dataset  
-- `movies_exploded_companies.csv` → Exploded production companies dataset  
-- `visualizations/` → Tableau screenshots  
-- `TMDB_Movie_Analysis_Polished.pdf` → Final report  
+- `movies.py` → Python cleaning & analysis script  
+- `movies_cleaned.csv` → Cleaned dataset  
+- `movies_genres_cleaned.csv` → Exploded genre dataset  
+- `movies_companies_cleaned.csv` → Exploded production companies dataset  
+- `Visualizations/` → Tableau screenshots  
+- `Movies Dataset Report.pdf` → Final report  
+
 
 
 
